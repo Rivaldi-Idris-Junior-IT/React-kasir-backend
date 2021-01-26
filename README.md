@@ -1,5 +1,5 @@
 # React-kasir-backend
-Backend untu aplikasi React-kasir-sederhana untuk request api dari database
+Backend untuk aplikasi React-kasir-sederhana dari request api dari database
 
 ## Cara menjalankannya
 - Download filenya
